@@ -11,10 +11,10 @@ The project uses NLTK for text preprocessing and libraries like scikit-learn, XG
 
 Tools & Libraries Used:-
 
--Python
--Pandas, NumPy
--NLTK
--Matplotlib, Seaborn, WordCloud
--Scikit-learn
--XGBoost
--Pickle
+-Python,
+Pandas, NumPy,
+NLTK,
+Matplotlib, Seaborn, WordCloud,
+Scikit-learn,
+XGBoost,
+Pickle.
